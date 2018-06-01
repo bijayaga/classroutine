@@ -1,0 +1,41 @@
+
+.register{
+    width: 900px;
+    margin: auto;
+    padding: 50px;
+    border: 1px dotted blue;
+    background: #c0d3db;
+    margin-bottom: 30px;
+}
+input[type=text]{
+    border-radius: 5px;
+    width: 300px;
+}
+input[type=submit]{
+    position: center;
+    cursor: pointer;
+    font: 18px bold;
+}
+input[type=radio]{
+    font: 20px bold;
+    padding: 10px;
+}
+select{
+    border-radius: 5px;
+    width: 300px;
+}
+
+p{
+    padding: 2px;
+    font-size: 18px;
+    font-family: Cambria;
+}
+span{
+    font-size: 12px;
+}
+.register table{
+    width: 700px;
+}
+
+
+
